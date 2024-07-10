@@ -1,0 +1,2 @@
+this is my 1st file on git hub
+and i am creating this file to save some info
